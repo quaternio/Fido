@@ -1,12 +1,29 @@
 {
     "explicit": {
         "gauss1": {
-            "mean": [],
-            "covariance": []
+            "mean": [0, 0],
+            "covariance": [[10, -66], [-66, 140]],
+            "sample_size": 5000
         },
         "gauss2": {
-            "mean": [],
-            "covariance": []
+            "mean": [-25, 30],
+            "covariance": [[10, 0], [0, 10]],
+            "sample_size": 5000
+        },
+        "gauss3": {
+            "mean": [-8, 38],
+            "covariance": [[10, 0], [0, 10]],
+            "sample_size": 5000
+        },
+        "gauss4": {
+            "mean": [5, -35],
+            "covariance": [[10, 0], [0, 10]],
+            "sample_size": 5000
+        },
+        "gauss5": {
+            "mean": [22, -27],
+            "covariance": [[10, 0], [0, 10]],
+            "sample_size": 5000
         }
     }
 }
