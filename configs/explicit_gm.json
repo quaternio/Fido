@@ -1,0 +1,12 @@
+{
+    "explicit": {
+        "gauss1": {
+            "mean": [],
+            "covariance": []
+        },
+        "gauss2": {
+            "mean": [],
+            "covariance": []
+        }
+    }
+}
